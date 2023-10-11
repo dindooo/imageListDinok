@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\imageListDinoK\bin\Debug\imageListDinoK.exe.config
+C:\Users\ucenik\source\repos\imageListDinoK\bin\Debug\imageListDinoK.exe
+C:\Users\ucenik\source\repos\imageListDinoK\bin\Debug\imageListDinoK.pdb
+C:\Users\ucenik\source\repos\imageListDinoK\obj\Debug\imageListDinoK.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\imageListDinoK\obj\Debug\imageListDinoK.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\imageListDinoK\obj\Debug\imageListDinoK.Form1.resources
+C:\Users\ucenik\source\repos\imageListDinoK\obj\Debug\imageListDinoK.Properties.Resources.resources
+C:\Users\ucenik\source\repos\imageListDinoK\obj\Debug\imageListDinoK.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\imageListDinoK\obj\Debug\imageListDinoK.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\imageListDinoK\obj\Debug\imageListDinoK.exe
+C:\Users\ucenik\source\repos\imageListDinoK\obj\Debug\imageListDinoK.pdb
